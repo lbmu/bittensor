@@ -1,4 +1,7 @@
 <div align="center">
+# ngedit
+## di github
+### coy
 
 # **Bittensor SDK** <!-- omit in toc -->
 [![Discord Chat](https://img.shields.io/discord/308323056592486420.svg)](https://discord.gg/bittensor)
